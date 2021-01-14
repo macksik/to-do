@@ -4,12 +4,12 @@
   margin-left: 5px;
 }
 
-.app-header h1 {
+.app-header h2 {
   flex-grow: 1;
   margin-right: 5px;
 }
 
-.app-header h2 {
+.app-header h3 {
   font-size: 1.2rem;
   color: white;
   margin-left: 5px;
