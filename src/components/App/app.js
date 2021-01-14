@@ -18,7 +18,7 @@ export default class App extends Component {
 
   state = {
     todoData : [
-      this.createTodoItem('Додай завдання')
+      this.createTodoItem('Додай завдання'),
     ],
     term: '',
     filter: 'all' //active,all,done
